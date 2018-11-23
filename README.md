@@ -1,5 +1,5 @@
 # product-search
-#I use Yii 1 framework 
+**I use Yii 1 framework 
 #you can clone the project 
 #extract it 
 #then you can run migration run this command  /task/search/protected/yiic migrate 
